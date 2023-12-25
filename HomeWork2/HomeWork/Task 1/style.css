@@ -1,0 +1,17 @@
+.box {
+    background-color: rgba(237,158,174,255);
+    max-width: 600px;
+    padding: 10px 10px 10px 10px;
+}
+.element {
+    background-color: rgba(197,100,118,255);
+    margin: 10px 20px 10px;
+}
+li {
+    padding: 10px 0px 10px 30px;
+    margin: 20px 20px 20px 35px;
+    background-color: rgba(158,53,74,255);
+    max-width: 120px;
+    font-size: 20px;
+    color:azure;
+}

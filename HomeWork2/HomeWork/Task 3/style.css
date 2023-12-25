@@ -1,0 +1,14 @@
+body {
+    height: 700px;
+}
+.container {
+    padding: 20px;
+    background-color: rgba(245,245,245,255);
+}
+ol {
+    padding-left: 70px;
+}
+
+dt {
+    font-size: 20px;
+}

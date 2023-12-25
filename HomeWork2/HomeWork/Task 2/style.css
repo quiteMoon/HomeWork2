@@ -1,0 +1,43 @@
+body {
+    padding: 30px 0px 30px 50px;
+}
+.box{
+    padding: 15px 0px 15px 70px;
+    max-width: 600px;
+    background-color: rgba(245,245,245,255);
+}
+h1{
+    font-family:serif
+}
+li {
+    margin: 0px 0px 0px 50px;
+    padding: 10px 0px 10px 20px;
+    font-size: 20px;
+}
+
+ul {
+    padding-left: 0px;
+    margin-bottom: 20px;
+}
+.element {
+    max-width: 500px;
+}
+
+#blue {
+    background-color: rgba(165,204,219,255);
+}
+
+#lightblue {
+    background-color: rgba(173,216,229,255);
+}
+
+#gray {
+    background-color: rgba(226,226,226,255);
+}
+
+li::after {
+    content: "×";
+    padding-left: 10px;
+    color: crimson;
+    font-family:monospace;
+}
